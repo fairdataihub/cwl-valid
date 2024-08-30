@@ -1,0 +1,33 @@
+{
+  "name": "cwl-valid",
+  "@context": "https://w3id.org/codemeta/3.0",
+  "author": [
+    {
+      "affiliation": {
+        "name": "FAIR Data Innovations Hub",
+        "type": "Organization"
+      },
+      "email": "wheresdorian@gmail.com",
+      "familyName": "Portillo",
+      "id": "_:author_1",
+      "givenName": "Dorian",
+      "type": "Person"
+    }
+  ],
+  "codeRepository": "https://github.com/fairdataihub/cwl-valid",
+  "dateCreated": "2024-07-18",
+  "description": "dfasdf",
+  "issueTracker": "https://github.com/fairdataihub/cwl-valid/issues",
+  "keywords": [
+    "dfasd"
+  ],
+  "license": "https://spdx.org/licenses/MIT",
+  "operatingSystem": [],
+  "programmingLanguage": [
+    "Common Workflow Language"
+  ],
+  "relatedLink": [],
+  "runtimePlatform": [],
+  "softwareRequirements": [],
+  "type": "SoftwareSourceCode"
+}

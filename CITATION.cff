@@ -1,0 +1,14 @@
+title: cwl-valid
+authors:
+  - given-names: Dorian
+    family-names: Portillo
+    email: wheresdorian@gmail.com
+    affiliation: FAIR Data Innovations Hub
+cff-version: 1.2.0
+message: If you use this software, please cite it using the metadata from this file.
+type: software
+abstract: dfasdf
+keywords:
+  - dfasd
+license: MIT
+repository-code: https://github.com/fairdataihub/cwl-valid
